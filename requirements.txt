@@ -1,0 +1,5 @@
+blink1==0.3.1
+click==8.1.2
+hidapi==0.11.2
+psutil==5.9.0
+webcolors==1.11.1
